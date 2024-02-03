@@ -17,6 +17,7 @@ module.exports = {
         "theme-black": "#262626",
         "theme-blue": "#0ea5e9",
         "theme-white": "#fafafa",
+        "theme-gray" : "#333333"
       },
     },
   },
